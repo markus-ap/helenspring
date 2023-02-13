@@ -41,7 +41,7 @@ async function fyll_film(){
 
 async function fyll_gif(){
     const samenlikning = document.getElementById("samenlikning");
-    let gifUrl = await getRandomGif("surprised");
+    let gifUrl = await getRandomGif("running");
     samenlikning.innerHTML = "<img id='gif' src='" + gifUrl + "'>";
 }
 
