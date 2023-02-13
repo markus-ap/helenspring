@@ -3,47 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: #*{
-    margin: 0;
-    padding: 0;
-}
-body{
-    background-color: #408a21;
-}
-
-#kropp{
-    padding-top: 0;
-    margin-top: 0;
-    padding: 5rem;
-    margin:auto;
-    text-align: center;
-    font-family: 'Inter', sans-serif;
-    color: #fffce8;
-    text-shadow: 0.2em 0.2em 0.5em rgba(0,0,0,0.5);
-}
-
-#kropp p{
-    font-size: 2rem;
-}
-#kropp h1{
-    font-size: 4rem;
-}
-
-#gif{
-    max-height: 50vh;
-}
-
-@media screen and (max-width: 600px) {
-    #gif{
-        max-width: 95%;
-    }
-    #kropp p{
-        font-size: 1rem;
-    }
-    #kropp h1{
-        font-size: 2rem;
-    }
-};
+    background-color: #455ad1;
 }
 
 #kropp{
